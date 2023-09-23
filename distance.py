@@ -18,6 +18,7 @@
 
 import math
 
+
 t1=int(input("Enter point one's latitude: "))
 g1=int(input("Enter point two's latitude: "))
 
