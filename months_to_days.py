@@ -6,7 +6,7 @@
 month=input("Enter name of the month: ")
 
 if month=="January":
-    print("There are 31 dyas in January")
+    print("There are 31 days in January")
 elif month=="February":
     print("There are 28 or 29 days in February")
 elif month=="March":
